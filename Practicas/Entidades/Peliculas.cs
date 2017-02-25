@@ -14,7 +14,6 @@ namespace Practicas.Entidades
         public string Nombre { get; set; }
         public DateTime PeliculaEstreno { get; set; }
         public int ActorId { get; set; }
-        public int MyProperty { get; set; }
 
 
 
